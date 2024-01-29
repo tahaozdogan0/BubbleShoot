@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Sahneler/Kapan\u0131sMenu.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
